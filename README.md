@@ -22,7 +22,7 @@
 
 Experience the live version of the project here:
 
-**[👉 Live Demo](https://jason-black.github.io/vite-html-login/)**
+**[👉 Live Demo](https://jason-black.github.io/LoginPage-React-Component/)**
 
 ---
 
