@@ -9,12 +9,12 @@
 
 <p align="center">
 
-#IDK WHY THIS IS NO LONGER WORKING
+#IDK WHY THIS IS NO LONGER WORKING i have done nothing but change the read me file???????
 
   <strong>A sleek and responsive login page template built with Vite, React, TailwindCSS.
 </p>
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://jason-black.github.io/vite-html-login/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://jason-black.github.io/LoginPage-React-Component/)
 
 ---
 
